@@ -1,7 +1,7 @@
 <?php
 
 /** MySQL hostname */
-define('DB_HOST', 'autorack.proxy.rlwy.net');
+define('DB_HOST', 'yamanote.proxy.rlwy.net');
 
 /** MySQL database username */
 
@@ -9,7 +9,7 @@ define('DB_USER', 'root');
 
 /** MySQL database password */
 
-define('DB_PASSWORD', 'IGUkNeWMjqKSNxhAQIIFPnyzNmcwQFuV');
+define('DB_PASSWORD', 'KoPvsqEPOUHRiCSMXDXxmijlOVYctLXX');
 
 /** MySQL database name */
 
@@ -17,7 +17,7 @@ define('DB_NAME', 'railway');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
-define('DB_PORT', 13284);
+define('DB_PORT', 55601);
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
